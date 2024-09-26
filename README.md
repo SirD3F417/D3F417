@@ -1,4 +1,4 @@
-<img align="right" height="400" src="https://s3.filebin.net/filebin/70e77241d8cb5168a2a026943504a5d27456a346a78a258c2cd86d5ac1476ebc/ffa4cceda144a709094d4533c437b54af9023766f1d45d04c2437de01e6db0f2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=7pMj6hGeoKewqmMQILjm%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T095858Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&response-cache-control=max-age%3D60&response-content-disposition=filename%3D%22Untitled_design_1_.gif%22&response-content-type=image%2Fgif&X-Amz-Signature=75a4b016f49a0382498800e45c1ba34663dbd08e4f8ca432e77567701cf77a8c"  />
+<img align="right" height="400" src="https://photos.google.com/share/AF1QipMOwMq60QC9LY5Vlsd1ieWCnsh8sOb2bcJ29TannbtpK5oQaAsvdcUwxD2HyeoSGQ/photo/AF1QipMYon0XimtVXt_Cu_vz1Yb0u0leVWFhAYmDBnKw?key=bl9NenBYMVpKMThyNy1DakJOZ3Vpc2xYV2FlaGxR"  />
 
 ###
 
